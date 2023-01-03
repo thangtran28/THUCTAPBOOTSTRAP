@@ -1,0 +1,17 @@
+
+.img img{
+    height: 460px;
+    width: 100%x;
+}
+.img{
+    background-color: white;
+    margin-top: 20px;
+}
+.carousel-item {
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+}
+col-12 col-sm-6 col-lg-3{
+    text-align: center;
+}
